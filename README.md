@@ -23,3 +23,5 @@ I have used:
 Free and generous weather API: **https://openweathermap.org/api** 
 Free and wonderful quotes API: **https://type.fit/api/quotes**
 
+Preview of the App: 
+![Screenshot_20201008_093948_host exp exponent](https://user-images.githubusercontent.com/35815182/95452683-edc10c80-0969-11eb-8fd3-7447220d85ba.jpg)
