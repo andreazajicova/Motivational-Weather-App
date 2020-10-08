@@ -6,7 +6,7 @@ This is a React Native app.
 
 ## Preview of the App on Android emulator:
 
-![Screenshot_20201008_093948_host exp exponent](https://user-images.githubusercontent.com/35815182/95453735-af2c5180-096b-11eb-8f19-73310087d2f0.png)
+![Screenshot_20201008_093948_host exp exponent](https://user-images.githubusercontent.com/35815182/95453943-06cabd00-096c-11eb-9e13-7750a7fb2271.png)
 
 
 Prerequisities:
