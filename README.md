@@ -1,9 +1,12 @@
 This is a React Native app.
 
-## Preview of the App: 
+## Preview of the App on a mobile phone: 
 
 ![Screenshot_20201008_093948_host exp exponent](https://user-images.githubusercontent.com/35815182/95452949-58724800-096a-11eb-97d1-6e701036a84d.jpg) ![Screenshot_20201008_133104_host exp exponent](https://user-images.githubusercontent.com/35815182/95453185-af781d00-096a-11eb-8512-f4c9becdb0bc.jpg)
 
+## Preview of the App on Android emulator:
+
+![Screenshot_20201008_093948_host exp exponent](https://user-images.githubusercontent.com/35815182/95453735-af2c5180-096b-11eb-8f19-73310087d2f0.png)
 
 
 Prerequisities:
