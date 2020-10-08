@@ -5,6 +5,7 @@ Prerequisities:
 
 In the main directory:
 
+## npm i
 ## npm start
 
 This command will run expo start:
