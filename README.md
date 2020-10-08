@@ -1,4 +1,10 @@
-This is a React Native app that can be run by following:
+This is a React Native app.
+
+## Preview of the App: 
+
+![Screenshot_20201008_093948_host exp exponent](https://user-images.githubusercontent.com/35815182/95452949-58724800-096a-11eb-97d1-6e701036a84d.jpg) ![Screenshot_20201008_133104_host exp exponent](https://user-images.githubusercontent.com/35815182/95453185-af781d00-096a-11eb-8512-f4c9becdb0bc.jpg)
+
+
 
 Prerequisities:
 ## You need to download Expo app onto your phone, which allows you to scan the QR code. 
@@ -22,11 +28,6 @@ Enjoy checking the weather and reading some inspiring quotes for the day! ⭐️
 I have used: 
 Free and generous weather API: **https://openweathermap.org/api** 
 Free and wonderful quotes API: **https://type.fit/api/quotes**
-
-
-## Preview of the App: 
-
-![Screenshot_20201008_093948_host exp exponent](https://user-images.githubusercontent.com/35815182/95452949-58724800-096a-11eb-97d1-6e701036a84d.jpg) ![Screenshot_20201008_133104_host exp exponent](https://user-images.githubusercontent.com/35815182/95453185-af781d00-096a-11eb-8512-f4c9becdb0bc.jpg)
 
 
 
