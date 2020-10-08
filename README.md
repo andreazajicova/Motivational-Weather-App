@@ -5,19 +5,19 @@ This is a React Native app.
 ![weather-app-on-mobile](https://user-images.githubusercontent.com/35815182/95454192-67f29080-096c-11eb-9c86-eee4356e4da8.jpg)  ![Screenshot_20201008_133104_host exp exponent](https://user-images.githubusercontent.com/35815182/95454382-aa1bd200-096c-11eb-80d4-bafeea92d90c.jpg)
 
 
-### Preview of the App on Android emulator:
+## Preview of the App on Android emulator:
 
 ![Screenshot 20201008 at 13 35 54](https://user-images.githubusercontent.com/35815182/95454472-cddf1800-096c-11eb-889d-98d819391ec4.png)
 
 
 
 Prerequisities:
-### You need to download Expo app onto your phone, which allows you to scan the QR code. 
+ **You need to download Expo app onto your phone, which allows you to scan the QR code.** 
 
 In the main directory:
 
-### npm i
-### npm start
+**npm i**
+**npm start**
 
 This command will run expo start:
 
