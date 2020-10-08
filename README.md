@@ -24,5 +24,6 @@ Free and generous weather API: **https://openweathermap.org/api**
 Free and wonderful quotes API: **https://type.fit/api/quotes**
 
 Preview of the App: 
-![Screenshot_20201008_093948_host exp exponent](https://user-images.githubusercontent.com/35815182/95452843-2cef5d80-096a-11eb-9556-86b50f3b0c59.jpg)
+![Screenshot_20201008_093948_host exp exponent](https://user-images.githubusercontent.com/35815182/95452949-58724800-096a-11eb-97d1-6e701036a84d.jpg)
+
 
