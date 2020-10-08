@@ -2,8 +2,8 @@ This is a React Native app.
 
 ## Preview of the App on a mobile phone: 
 
-![weather-app-on-mobile](https://user-images.githubusercontent.com/35815182/95454192-67f29080-096c-11eb-9c86-eee4356e4da8.jpg)
- ![Screenshot_20201008_133104_host exp exponent](https://user-images.githubusercontent.com/35815182/95453185-af781d00-096a-11eb-8512-f4c9becdb0bc.jpg)
+![weather-app-on-mobile](https://user-images.githubusercontent.com/35815182/95454192-67f29080-096c-11eb-9c86-eee4356e4da8.jpg)  ![Screenshot_20201008_133104_host exp exponent](https://user-images.githubusercontent.com/35815182/95454382-aa1bd200-096c-11eb-80d4-bafeea92d90c.jpg)
+
 
 ## Preview of the App on Android emulator:
 
